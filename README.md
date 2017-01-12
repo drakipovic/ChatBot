@@ -1,2 +1,8 @@
-# LiveScore
-Simple flask app that tracks live tennis scores using web sockets
+# ChatBot
+
+Built using flask_socketio.
+
+Run
+  python run.py
+  
+to start the server.
